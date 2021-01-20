@@ -14,17 +14,17 @@
     "name": "雙色板銘牌",
     "description": "不同顏色客製化雙色板銘牌雕刻",
     "title": "雙色板銘牌、雙色板面板 - 台中",    
-    "count": 3,
+    "count": 2,
     "meta": {
       "description": "偉辰企業社提供雙色板(ABS)材料,雙色板機械面板,雙色板雕刻,雙色板標示銘牌，歡迎來電訂製。"
     }
   },
   "plate": {
     "keyword": "plate",
-    "name": "機械面板",
-    "description": "配電盤控制面板,電源開關面板,壓克力面板",
+    "name": "壓克力面板",
+    "description": "配電盤控制面板,電源開關面板,壓克力面板,機械面板",
     "title": "機械面板、配電盤控制開關面板 - 台中",    
-    "count": 7,
+    "count": 6,
     "meta": {
       "description": "各種尺寸壓克力面板,有機械面板和配電盤控制開關面板,自動控制面板。"
     }
@@ -39,12 +39,12 @@
       "description": "壓克力流程圖訂製,污水處理流程圖,無塵室流程圖,廢水處理流程圖。"
     }
   },
-  "cardshelf": {
-    "keyword": "cardshelf",
+  "acrylicproduct": {
+    "keyword": "acrylicproduct",
     "name": "壓克力加工製品",
     "description": "壓克力展示架,摸彩箱,壓克力板,壓克力圓管,壓克力加工製品,壓克力盒",
     "title": "壓克力加工製品 - 台中",    
-    "count": 8,
+    "count": 15,
     "meta": {
       "description": "提供壓克力展示架,摸彩箱,壓克力板,壓克力圓管,壓克力加工製品,壓克力盒。"
     }
